@@ -1,18 +1,1 @@
-body {
-    margin: 40px;
-    font-family: "Adobe Caslon Pro";
-    font-size: 12pt;
-    background-color: #F98866;
-}
 
-header {
-    font-family: "Trajan Pro", serif;
-    padding-bottom: 10px;
-}
-
-header h1 {
-    font-size: 20pt;
-    letter-spacing: 2pt;
-    border-bottom: 1px solid black;
-    margin-bottom: 4px;
-}
