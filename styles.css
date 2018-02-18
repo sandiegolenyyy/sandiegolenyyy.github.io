@@ -1,1 +1,18 @@
-
+<style type="text/css">
+html {
+    background: white;
+    color: black;
+    font: 14px 'Helvetica Neue', Arial, sans-serif;
+}
+body {
+    margin: 2em auto;
+    max-width: 760px;
+    width: 65%;
+}
+section {
+    clear: both;
+    margin-top: 3em;
+}
+li {
+    list-style-type: disc;
+}
