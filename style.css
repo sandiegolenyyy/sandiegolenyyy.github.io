@@ -1,21 +1,21 @@
 <style>
 body {
     margin: 40px;
-    font-family: "Adobe Caslon Pro", "Minion Pro", serif;
+    font-family: "Franklin Gothic Medium", serif;
     font-size: 12pt;
     background-color: #F9886;
 }
 
 header {
-    font-family: "Trajan Pro", serif;
-    padding-bottom: 10px;
+    font-family: "Franklin Gothic Demi";
 }
 
  h1 {
-    font-size: 20pt;
+    font-size: 25pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
     margin-bottom: 4px;
+    padding-bottom: 10px;
 }
 h2 {
     font-size: 20pt;
@@ -24,9 +24,10 @@ h2 {
     margin-bottom: 4px;
 }
  h3 {
-    font-size: 20pt;
+    font-size: 15pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
     margin-bottom: 4px;
-}
+
+    
 </style>
