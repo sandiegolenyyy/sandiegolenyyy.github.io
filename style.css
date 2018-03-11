@@ -1,32 +1,34 @@
 <style>
 body {
     margin: 40px;
-    font-family: "Cambria";
+    font-family: Cambria;
     font-size: 12pt;
-    background-color: #F5CBA7;
+    background-color: teal;
 }
 
 
  h1 {
-    font-family: "Franklin Gothic Demi";
+    font-family: Franklin Gothic Demi;
     font-size: 25pt;
     letter-spacing: 2pt;
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
     margin-bottom: 4px;
     padding-bottom: 10px;
 }
 h2 {
-    font-family: "Franklin Gothic Demi";
+    font-family: Franklin Gothic Demi;
     font-size: 20pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
     margin-bottom: 4px;
 }
  h3 {
-    font-family: "Franklin Gothic Demi";
+    font-family: Franklin Gothic Demi;
     font-size: 15pt;
     letter-spacing: 2pt;
+    border-bottom: 1px solid black;
     margin-bottom: 4px;
+    
 }
     
 </style>
