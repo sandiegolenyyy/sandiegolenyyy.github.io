@@ -6,11 +6,9 @@ body {
     background-color: #F5CBA7;
 }
 
-header {
-    font-family: "Franklin Gothic Demi";
-}
 
  h1 {
+    font-family: "Franklin Gothic Demi";
     font-size: 25pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
@@ -18,12 +16,14 @@ header {
     padding-bottom: 10px;
 }
 h2 {
+    font-family: "Franklin Gothic Demi";
     font-size: 20pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
     margin-bottom: 4px;
 }
  h3 {
+    font-family: "Franklin Gothic Demi";
     font-size: 15pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
