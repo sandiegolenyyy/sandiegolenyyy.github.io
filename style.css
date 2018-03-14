@@ -6,6 +6,13 @@ body {
     font-size: 12pt;
 }
 div {
+    background-color: #fff5ee;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+div2 {
     background-color: lightgrey;
     width: 300px;
     padding: 10px;
