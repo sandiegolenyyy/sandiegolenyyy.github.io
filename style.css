@@ -26,19 +26,6 @@ h2 {
     margin-bottom: 6px;
 }
 
-div {
-    width: 500px;
-    height: 100px;
-    background-color: white;
-    overflow: visible;
-}
-.head {display: inline;
-  color: black;
-  text-align: center;
-  padding: 10px 20px;
-  float: left;
-  font-size: 20px;
-  }
 
     
 </style>
