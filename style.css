@@ -7,18 +7,12 @@ body {
 }
 div {
     background-color: #E8E8E8;
-    width: 300px;
-    padding: 10px;
-    margin: 10px;
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
     
 }
-d2 {
-    background-color: lightgrey;
-    width: 300px;
-    padding: 10px;
-    margin: 10px;
-    
-}
+
  h1 {
     font-size: 25pt;
     letter-spacing: 2pt;
