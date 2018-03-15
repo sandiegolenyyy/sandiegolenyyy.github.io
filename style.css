@@ -1,1 +1,45 @@
+<style>
 
+html,body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Roboto", sans-serif
+}
+
+
+w3-content w3-margin-top {
+  max-width:1400px;
+}
+
+one {
+  font-size: 20pt;
+   letter-spacing: 2pt;
+  color: white;
+}
+
+two {
+  width:90%;
+}
+three {
+  width:80%;
+}
+
+four {
+  width:75%;
+}
+five {
+  width:50%;
+}
+pen {
+  height:24px;
+  width:100%;
+}
+san
+{
+height:24px;
+  width:55%;
+}
+pole {
+  height:24px;
+  width:55%;
+}
+
+</style>
